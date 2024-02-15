@@ -1,1 +1,2 @@
-another text file
+another file
+some small changes
